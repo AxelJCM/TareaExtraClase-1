@@ -1,4 +1,5 @@
-public class EjTryCatch {public static void main(String[] args) {
+public class EjTryCatch {
+    public static void main(String[] args) {
     /***
      * Ejemplo de try/catch checked y unchecked exceptions mediante operaciones matematicas.
      */
